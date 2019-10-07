@@ -2,6 +2,8 @@
 
 Authors: Piotr WóJcik, [Faculty of Economic Sciences, University of Warsaw](https://www.wne.uw.edu.pl/)
 
+Full materials can be found on [my github](https://github.com/ptwojcik/WhyR2019_Rcpp)
+
 ### Description
 
 Typical bottlenecks of programs in R are (1) loops that can not easily be vectorized, because   calculations in a given iteration depend on the results from the previous iterations; (2) recursive functions or problems that require multiple calling the same function.
